@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Michael-Mugambi-Wachira
 - 👀 I’m interested in ...coding,cyber security,data science and AI
-- 🌱 I’m currently learning ...coding
+- 🌱 I’m currently a coder ...coding
 - 💞️ I’m looking to collaborate on ...few days to come
 - 📫 How to reach me ...+254795314668
 
